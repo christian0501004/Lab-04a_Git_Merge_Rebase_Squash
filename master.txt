@@ -1,8 +1,2 @@
 initial commit
 2nitial commit
-<<<<<<< HEAD
-fifth commit
-=======
-3nitial commit
-4nitial commit
->>>>>>> feature
